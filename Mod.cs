@@ -38,10 +38,10 @@ namespace ShrekHelpers
         
         Dictionary<int, string> ids = new Dictionary<int, string>
         {
-            {ApplianceReferences.GhostKnife, "Shrek_Knife"},
-            {ApplianceReferences.GhostClipboard, "Shrek_Clip"},
-            {ApplianceReferences.GhostScrubber, "Shrek_Scrub"},
-            {ApplianceReferences.GhostRollingPin, "Shrek_Roll"},
+            {1313278365, "Shrek_Knife"},
+            {-1946127856, "Shrek_Clip"},
+            {-560953757, "Shrek_Scrub"},
+            {689268680, "Shrek_Roll"},
         };
 
         protected override void OnPostActivate(KitchenMods.Mod mod)
