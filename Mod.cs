@@ -8,7 +8,6 @@ using System.Reflection;
 using Kitchen;
 using KitchenData;
 using KitchenLib.Event;
-using KitchenLib.References;
 using KitchenLib.Utils;
 using UnityEngine;
 
@@ -18,7 +17,7 @@ namespace ShrekHelpers
     {
         public const string MOD_GUID = "com.starfluxgames.shrekhelpers";
         public const string MOD_NAME = "Shrek Helpers";
-        public const string MOD_VERSION = "0.1.0";
+        public const string MOD_VERSION = "0.1.2";
         public const string MOD_AUTHOR = "StarFluxGames";
         public const string MOD_GAMEVERSION = ">=1.1.4";
 
